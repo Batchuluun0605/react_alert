@@ -27,7 +27,6 @@ body {
 }
 
 .alert-msg {
-  color: white;
   display: flex;
   align-items: center;
 }
